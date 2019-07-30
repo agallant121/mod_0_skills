@@ -17,4 +17,4 @@ Methods:
 Hire a wait staff: (Hired ["Beth," "Abby," "Frank"] = 3 total)
 Order Equipment: (Ordered ["12 Menus," "3 Pens," "3 Note pads"] =  18 total)
 Order uniform supplies: (Ordered/received ["3 Shirts." "3 Name Tags," "3 Aprons"] / Add total number of each = currently 9 total)
-Provide good service : True 
+Provided good service : True 
