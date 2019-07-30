@@ -12,4 +12,4 @@ Methods:
 Hire a Chef and Line Cooks: (Add strings with "employee names" / add to total number of personnel)
 Order Equipment: (Add strings with "equipment labels" / Add to total number of pieces of equipment)
 Order food supplies: (Add strings with "food labels" / Add || subtract total number of each food before/after use)
-Prepare food: (Is the food ready to serve? True || False) 
+Prepare food: (Is the food ready to serve? True || False)

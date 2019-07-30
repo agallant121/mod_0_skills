@@ -1,0 +1,19 @@
+Class: Serving
+
+Instance: Big Dave's Kitchen
+
+Attributes:
+
+Personnel: ["Danny," "Ricky," "Mickey"]
+  Total: 3
+Equipment: ["Stove," "Oven," "Grill"]
+  Total: 3
+Food Supplies: ["Burgers," "Buns," "Cheese"]
+  Total: 3
+Food is ready to serve: True || False
+
+Methods:
+
+Hire a Chef and Line Cooks: (Hired ["Danny," "Ricky," "Mickey"]  = 3 total)
+Order Equipment: (Ordered ["Stove," "Oven," "Grill"]  = 3 total)
+Order food supplies: (Ordered/received ["Burgers." "Buns," "Cheese"]  Add || subtract total number of each = currently 3 total)
