@@ -1,0 +1,20 @@
+Class: Serving
+
+Instance: Big Dave's Serving Staff
+
+Attributes:
+
+Personnel: ["Beth," "Abby," "Frank"]
+  Total: 3
+Equipment: ["Menu," "Pen," "Note pad"]
+  Total: (4 * 3) + 3 + 3 = 18
+Uniform Supplies: ["Shirt," "Name Tag," "Apron"]
+  Total: 3 * 3 = 9
+Good service: True || False
+
+Methods:
+
+Hire a wait staff: (Hired ["Beth," "Abby," "Frank"] = 3 total)
+Order Equipment: (Ordered ["12 Menus," "3 Pens," "3 Note pads"] =  18 total)
+Order uniform supplies: (Ordered/received ["3 Shirts." "3 Name Tags," "3 Aprons"] / Add total number of each = currently 9 total)
+Provide good service : True 

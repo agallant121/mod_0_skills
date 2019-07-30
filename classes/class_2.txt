@@ -1,0 +1,15 @@
+Class: Serving
+
+Attributes:
+
+Personnel: ("strings" / integer)
+Equipment: ("strings" / integer)
+Uniform Supplies: ("strings" / integer)
+Good service: (boolean)
+
+Methods:
+
+Hire a wait staff: (Add strings with "employee names" / add to total number of personnel)
+Order Equipment: (Add strings with "equipment items" / Add to total number of items of equipment)
+Order uniform supplies: (Add strings with "clothing items" / Add to total number of articles of clothing)
+Provide good service: (Was the service good? True || False)
