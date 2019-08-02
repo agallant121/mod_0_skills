@@ -1,0 +1,17 @@
+Class: Chair
+
+Attributes:
+Color (string)
+TypeOfChair (string)
+CanRecline (boolean)
+ArmRests (boolean)
+AvailableSeatCushions (integer)
+YearOfProduction (integer)
+CostOfChair (integer)
+OccupiedCushions (integer)
+
+Methods:
+SitInChair (If AvailableSeatCushions - OccupiedCushions >= 1 then SitInChair else do not sit)
+ReclineTheChair (if CanRecline is True, recline the chair else do nothing)
+FindAgeOfChair (subtract YearOfProduction from current year to get AgeOfChair)
+DecideIfChairIsExpensive (if CostOfChair > than 200 then chair is expensive puts True else puts False)

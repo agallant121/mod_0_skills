@@ -1,0 +1,19 @@
+Class: Chair
+
+Object: Recliner
+
+Attributes:
+Color: "Brown"
+TypeOfChair: "Recliner"
+CanRecline: True
+ArmRests: True
+AvailableSeatCushions: 1
+YearOfProduction: 2010
+CostOfChair: 250
+OccupiedCushions: 0
+
+Methods:
+SitInChair: (1  - 0 >=  1) = True
+ReclineTheChair: CanRecline is True, recline the chair.
+FindAgeOfChair: 2019 - 2010 = 9
+DecideIfChairIsExpensive: (250 > 200) = True
